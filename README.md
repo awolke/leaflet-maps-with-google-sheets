@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/awolke/leaflet-maps-with-google-sheets/blob/master/index.html
+- Leaflet Map https://awolke.github.io/leaflet-maps-with-google-sheets/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1AtFPid2eQedwpmppIEjShFHI0YdjlyMDNTPg3XzlXaY/edit#gid=0
 
 ## Create your own
